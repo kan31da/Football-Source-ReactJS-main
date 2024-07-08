@@ -1,0 +1,13 @@
+.squad-title {
+	color: red;
+	text-align: center;
+}
+
+.squad-section {
+	text-align: center;
+	/* background-image: url('/public/images/competition_background.avif'); */
+}
+
+.widget-header {
+	padding: 1%;
+}

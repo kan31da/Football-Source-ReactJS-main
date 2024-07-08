@@ -1,0 +1,19 @@
+.contacts-section {
+	text-align: center;
+}
+
+.contact-style {
+	text-align: center;
+	padding: 20px;
+	color: white;
+}
+
+.contact-list {
+	list-style-type: none;
+	padding: 0;
+}
+
+.contact-item {
+	font-size: 18px;
+	margin: 10px 0;
+}

@@ -1,0 +1,25 @@
+.predictions-section {
+	text-align: center;
+	/* background-image: url('/public/images/competition_background.avif'); */
+}
+
+.predictions-title {
+	text-align: center;
+	color: red;
+}
+
+.widget-header {
+	padding: 1%;
+}
+
+.details-btn {
+	text-align: center;
+}
+
+.details-btn .p-button {
+	margin: 0 auto;
+}
+
+.match-emblem {
+	width: 150px;
+}

@@ -1,0 +1,6 @@
+.something-went-wrong-section {
+	height: 1000px;
+	background-image: url('/images/somethingwentwrong.jpg');
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+}

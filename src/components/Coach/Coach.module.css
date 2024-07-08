@@ -1,0 +1,26 @@
+.coach-section {
+	text-align: center;
+	/* background-image: url('/public/images/default_coach_background.jpg'); */
+}
+
+.coach-title {
+	text-align: center;
+	color: red;
+}
+
+.coach-card-container {
+	width: 500px;
+	display: inline-grid;
+	margin: 15px;
+	height: auto;
+	background-color: lightgrey;
+}
+
+.coach-card {
+	margin: 50px;
+}
+
+.card-image {
+	width: 300px;
+	margin: 15px;
+}

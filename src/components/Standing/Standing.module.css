@@ -1,0 +1,24 @@
+.standing-section {
+	text-align: center;
+	/* background-image: url('/public/images/competition_background.avif'); */
+}
+
+.widget-header {
+	padding: 1%;
+}
+
+.emblem {
+	width: 150px;
+}
+
+.details-btn {
+	text-align: center;
+}
+
+.standing-title, .group-title {
+	color: red;
+}
+
+.highlighted-team-name {
+	background-color: yellow;
+}

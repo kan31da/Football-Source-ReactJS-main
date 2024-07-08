@@ -1,0 +1,38 @@
+.person-section {
+	text-align: center;
+	/* background-image: url(/public/images/competition_background.avif); */
+}
+
+.red {
+	color: red;
+}
+
+.card-container {
+	width: auto;
+	display: inline-grid;
+	margin: 15px;
+	height: auto;
+	background-color: lightgrey;
+}
+
+.card-image {
+	width: 150px;
+	margin: 15px;
+}
+
+.card-main-image {
+	width: 500px;
+	margin: 15px;
+}
+
+.card-subtitle {
+	text-align: center;
+}
+
+.card-subtitle p {
+	margin: 0;
+}
+
+.current-team-card {
+	background-color: 'salmon'
+}

@@ -1,0 +1,26 @@
+.profile-section {
+	text-align: center;
+	/* background-image: url('/public/images/default_coach_background.jpg'); */
+}
+
+.profile-title {
+	text-align: center;
+	color: red;
+}
+
+.profile-card-container {
+	width: 500px;
+	display: inline-grid;
+	margin: 15px;
+	height: auto;
+	background-color: lightgrey;
+}
+
+.profile-card {
+	margin: 50px;
+}
+
+.card-image {
+	width: 300px;
+	margin: 15px;
+}

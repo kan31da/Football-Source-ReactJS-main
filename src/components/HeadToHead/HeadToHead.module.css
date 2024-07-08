@@ -1,0 +1,43 @@
+.head-to-head-section {
+    text-align: center;
+	/* background-image: url('/public/images/competition_background.avif'); */
+}
+
+.head-to-head-title, .aggregates-title, .matches-title{
+    text-align: center;
+    color:red;
+}
+
+.widget-header {
+	padding: 1%;
+}
+
+.card {
+	margin: 50px;
+}
+
+.card-container {
+    width: 500px;
+	display: inline-grid;
+	margin: 15px;
+	height: auto;
+	background-color: lightgrey;
+}
+
+.home-team-emblem, .away-team-emblem {
+	width: 150px;
+}
+
+.head-to-head-stats {
+	display: flex;
+}
+
+.head-to-head-stats div {
+	flex: 1;
+	margin: 5%;
+}
+
+.no-head-to-head-title {
+	color: red;
+	margin: 2%;
+}

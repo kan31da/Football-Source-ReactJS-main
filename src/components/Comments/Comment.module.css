@@ -1,0 +1,11 @@
+.comment-section {
+	text-align: center;
+	margin: 0 auto;
+	width: 800px;
+	height: auto;
+}
+
+.comment-card {
+	background-color: seashell;
+	margin: 3%;
+}

@@ -1,0 +1,25 @@
+.goal-scorers-section {
+	text-align: center;
+	/* background-image: url('/public/images/competition_background.avif'); */
+}
+
+.goal-scorers-title {
+	text-align: center;
+	color: red;
+}
+
+.widget-header {
+	padding: 2rem;
+}
+
+.team-emblem {
+	width: 100px;
+}
+
+.details-btn {
+	text-align: center;
+}
+
+.details-btn .p-button {
+	margin: 0 auto;
+}

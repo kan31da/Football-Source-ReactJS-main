@@ -1,0 +1,31 @@
+.running-competitions-section {
+	text-align: center;
+	/* background-image: url(/public/images/competition_background.avif); */
+}
+
+.running-competitions-title {
+	color: red;
+	text-align: center;
+}
+
+.running-competitions-container {
+	white-space: normal;
+}
+
+.card-container {
+	width: 400px;
+	display: inline-grid;
+	margin: 15px;
+	height: auto;
+	background-color: lightgrey;
+}
+
+.card {
+	margin: 50px;
+	width: 300px;
+}
+
+.card-image {
+	width: 150px;
+	margin: 15px;
+}

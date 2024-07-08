@@ -1,0 +1,33 @@
+.competition-section {
+	text-align: center;
+	/* background-image: url('/public/images/competition_background.avif'); */
+}
+
+.competition-title {
+	color: red;
+}
+
+.card-container {
+	width: 500px;
+	display: inline-grid;
+	margin: 15px;
+	height: auto;
+	background-color: lightgrey;
+}
+
+.card-header {
+	width: 150px;
+	margin: 25px;
+}
+
+.subtitle {
+	text-align: center;
+}
+
+.subtitle-image {
+	width: 50px;
+}
+
+.card {
+	margin: 50px;
+}

@@ -1,0 +1,29 @@
+.competitions-section, .teams-section {
+	margin-top: 3%;
+}
+
+.saerch-result-section {
+	text-align: center;
+	/* background-image: url('/public/images/competition_background.avif'); */
+}
+
+.team-emblem, .competition-emblem {
+	width: 100px;
+}
+
+.search-result-title, .competitions-title, .teams-title {
+	text-align: center;
+	color: red;
+}
+
+.details-btn {
+	text-align: center;
+}
+
+.details-btn .p-button {
+	margin: 0 auto;
+}
+
+.widget-header {
+	padding: 1%;
+}

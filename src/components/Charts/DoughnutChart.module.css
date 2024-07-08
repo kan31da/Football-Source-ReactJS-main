@@ -1,0 +1,13 @@
+.chart-title {
+	text-align: center;
+	color: red;
+}
+
+.chart-section {
+	text-align: center;
+	width: 30%;
+	display: inline-grid;
+	margin: 15px;
+	height: auto;
+	background-color: lightgrey;
+}
